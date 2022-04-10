@@ -6,8 +6,8 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 
 ### Endpoints available :
 
-/users/ - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
-<span style="color: blue">Sample data</span>
+**/users/** - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
+<span style="color: blue">Sample data</span> - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <br />
 {<br />
 &nbsp;&nbsp;"id": 1,<br />
@@ -17,8 +17,8 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 &nbsp;&nbsp;"gender": "Male"<br />
 }
 <br /><br />
-/products/ - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
-<span style="color: blue">Sample data</span>
+**/products/** - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
+<span style="color: blue">Sample data</span> - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <br />
 {<br />
 &nbsp;&nbsp;"title": "Brown eggs",<br />
