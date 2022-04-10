@@ -1,0 +1,21 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "fake REST API created by @th3qui85ly for third party API usage regarding many endpoints like employees, products, companies, etc.",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "Fake-Server",
+    "JSON-Server"
+  ],
+  "author": "th3qui85ly",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
