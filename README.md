@@ -33,4 +33,4 @@ _Sample data_
 
 <hr> 
 
-Developed by - @th3qui85ly
+Developed by - [@th3qui85ly](https://github.com/th3qui85ly)
