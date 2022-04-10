@@ -9,4 +9,6 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 /users/ - Methods allowed (GET, POST, PUT, DELETE, PATCH)
 /products/ - Methods allowed (GET, POST, PUT, DELETE, PATCH)
 
+<hr> 
+
 Developed by - @th3qui85ly
