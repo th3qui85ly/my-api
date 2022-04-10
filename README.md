@@ -1,4 +1,4 @@
-# Fake bulk REST API
+# FakeBulk - REST API
 
 ### 🛠️ built using JSON-Server x Heroku
 
