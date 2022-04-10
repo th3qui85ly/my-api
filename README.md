@@ -7,7 +7,7 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 ### Endpoints available :
 
 /users/ - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
-<soan style="color: blue">Sample data</span>
+<span style="color: blue">Sample data</span>
 <br />
 {<br />
 &nbsp;&nbsp;"id": 1,<br />
@@ -16,9 +16,9 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 &nbsp;&nbsp;"email": "simon@xyz.com",<br />
 &nbsp;&nbsp;"gender": "Male"<br />
 }
-<br />
+<br /><br />
 /products/ - Methods allowed (GET, POST, PUT, DELETE, PATCH) <br />
-<soan style="color: blue">Sample data</span>
+<span style="color: blue">Sample data</span>
 <br />
 {<br />
 &nbsp;&nbsp;"title": "Brown eggs",<br />
