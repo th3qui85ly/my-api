@@ -20,7 +20,8 @@ _Sample data_
 **/products/** - Methods allowed (GET, POST, PUT, DELETE, PATCH, OPTIONS) <br />
 _Sample data_
 <br />
-{<br />
+[<br />
+&nbsp;{<br />
 &nbsp;&nbsp;"title": "Brown eggs",<br />
 &nbsp;&nbsp;"type": "dairy",<br />
 &nbsp;&nbsp;"description": "Raw organic brown eggs in a basket",<br />
@@ -29,7 +30,21 @@ _Sample data_
 &nbsp;&nbsp;"width": 400,<br />
 &nbsp;&nbsp;"price": 28.1,<br />
 &nbsp;&nbsp;"rating": 4<br />
-}
+&nbsp;}
+<br />
+]
+<br /><br />
+**/foods/** - Methods allowed (GET, POST, PUT, DELETE, PATCH, OPTIONS) <br />
+_Sample data_
+<br />
+[<br />
+&nbsp;&nbsp;{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"restaurant":"Panera",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"foodItems":[<br />
+&nbsp;&nbsp;&nbsp;&nbsp;{"foodName":"Modern Greek Salad with Quinoa", "foodType":"Salad", "calories":530, "carbs":29, "sideItem":true, "dressingItem":true },<br />
+&nbsp;&nbsp;&nbsp;&nbsp;]<br />
+&nbsp;&nbsp;}<br />
+]
 
 <hr> 
 
