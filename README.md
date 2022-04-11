@@ -9,13 +9,15 @@ Base URL : 🔗 https://fakebulk-api.herokuapp.com/
 **/users/** - Methods allowed (GET, POST, PUT, DELETE, PATCH, OPTIONS) <br />
 _Sample data_
 <br />
-{<br />
-&nbsp;&nbsp;"id": 1,<br />
-&nbsp;&nbsp;"first_name": "Simon",<br />
-&nbsp;&nbsp;"last_name": "Jones",<br />
-&nbsp;&nbsp;"email": "simon@xyz.com",<br />
-&nbsp;&nbsp;"gender": "Male"<br />
-}
+[<br />
+&nbsp;&nbsp;{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"id": 1,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"first_name": "Simon",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"last_name": "Jones",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"email": "simon@xyz.com",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"gender": "Male"<br />
+&nbsp;&nbsp;}<br />
+]
 <br /><br />
 **/products/** - Methods allowed (GET, POST, PUT, DELETE, PATCH, OPTIONS) <br />
 _Sample data_
